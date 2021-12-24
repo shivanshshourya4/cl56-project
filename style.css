@@ -1,0 +1,27 @@
+Body {
+  background-color:#18FFFF;
+    text-align:center;
+}
+
+h1{
+  font-size:24px;
+  text-align:center;
+}
+
+
+
+img {
+  height:250px;
+  width:400px;
+}
+
+.image-section {
+  display: flex;
+  justify-content:center;
+}
+
+.selection-style{
+  margin-left:25px;
+  margin-right:25px;
+  background-color:white;
+}
